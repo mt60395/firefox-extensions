@@ -23,6 +23,8 @@ Downloads the following Mozilla Firefox extensions:
 
 - User-Agent Switcher
 
+- Universal Bypass
+
 ## Installation
 Make sure you have Python installed. After, run firefox-extensions.py with Python.
 

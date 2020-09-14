@@ -14,7 +14,8 @@ extensions = [
         '3539177',  # Decentraleyes
         '3586373',  # CanvasBlocker
         '3638157',  # Chameleon
-        '3637558'   # User Agent Switcher
+        '3637558',  # User Agent Switcher
+        '3641200',  # Universal Bypass
 ]
 
 if __name__ == "__main__":
