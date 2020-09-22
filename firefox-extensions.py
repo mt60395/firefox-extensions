@@ -1,5 +1,5 @@
 import webbrowser
-ff = webbrowser.get()
+ff = webbrowser.get('firefox')
 
 def get(extension):
 	ff.open("https://addons.mozilla.org/firefox/downloads/file/" + extension)

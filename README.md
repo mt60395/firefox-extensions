@@ -25,6 +25,9 @@ Downloads the following Mozilla Firefox extensions:
 
 - Universal Bypass
 
+## Notice
+Windows may require you to register browsers for the webbrowser module. You may modify the Python script to remove 'firefox' from webbrowser.get() to use the default web browser; this means you must set Firefox as your default web browser.
+
 ## Installation
 Make sure you have Python installed. After, run firefox-extensions.py with Python.
 
@@ -36,7 +39,7 @@ These settings are primarily meant for a Windows machine. A Linux machine might 
 Configure it further to how you would like it and mess around with settings if you wish. I recommend to not change the user agent with Chameleon because it does not suffice - the user agent string is too revealing.
 
 ## User-Agent Switcher Settings
-- Windows / Chrome or Enable Random Mode; configure it to how you want it. Some user agents might break websites.
+- Windows / Chrome or Enable Random Mode; configure it to how you want it. Some user agents might break specific websites.
 
 ## Cookie Auto Delete
-Note that Cookie Auto Delete may be inconvenient for users that like to stay logged in to websites on their web browser.
+Note that Cookie Auto Delete may be inconvenient for users that like to stay logged in to websites on their web browser, if you choose to enable the auto cleaning option.
