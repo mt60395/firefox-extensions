@@ -3,30 +3,32 @@
 
 Downloads the following Mozilla Firefox extensions:
 
-- uBlock Origin
+- [uBlock Origin](https://addons.mozilla.org/firefox/downloads/file/3629683)
 
-- HTTPS Everywhere
+- [HTTPS Everywhere](https://addons.mozilla.org/firefox/downloads/file/3625427)
 
-- Cookie Auto Delete
+- [Cookie Auto Delete](https://addons.mozilla.org/firefox/downloads/file/3630305)
 
-- History Auto Delete
+- [History Auto Delete](https://addons.mozilla.org/firefox/downloads/file/704003)
 
-- Facebook Container
+- [Facebook Container](https://addons.mozilla.org/firefox/downloads/file/3548655)
 
-- DuckDuckGo Privacy Essentials
+- [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/firefox/downloads/file/3628130)
 
-- Decentraleyes
+- [Decentraleyes](https://addons.mozilla.org/firefox/downloads/file/3539177)
 
-- Canvas Blocker
+- [Canvas Blocker](https://addons.mozilla.org/firefox/downloads/file/3586373)
 
-- Chameleon
+- [Chameleon](https://addons.mozilla.org/firefox/downloads/file/3638157)
 
-- User-Agent Switcher
+- [User-Agent Switcher](https://addons.mozilla.org/firefox/downloads/file/3637558)
 
-- Universal Bypass
+- [Universal Bypass](https://addons.mozilla.org/firefox/downloads/file/3641200)
 
 ## Notice
 Windows may require you to register browsers for the webbrowser module. You may modify the Python script to remove 'firefox' from webbrowser.get() to use the default web browser; this means you must set Firefox as your default web browser.
+
+You can also access the links for each extension through the README.
 
 ## Installation
 Make sure you have Python installed. After, run firefox-extensions.py with Python.
